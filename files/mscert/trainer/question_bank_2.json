@@ -107,6 +107,21 @@
       ],
       "correct_answer": 0,
       "rationale": "The HLA-DRB1*15:01 allele is the strongest genetic risk factor for MS, located in the MHC class II region on chromosome 6. Carriers have 3x increased MS risk."
+    },
+    {
+      "id": "q007",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "medium",
+      "stem": "MS prevalence is highest in which geographic regions?",
+      "options": [
+        "Near the equator (tropical zones)",
+        "Mid-latitude regions (e.g., Canada, northern US, Europe)",
+        "South America",
+        "Central Africa"
+      ],
+      "correct_answer": 1,
+      "rationale": "MS prevalence increases with distance from the equator. Highest rates are found in mid-latitude regions such as Canada, northern US, Europe, southern Australia, and New Zealand."
     }
   ]
 }
