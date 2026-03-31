@@ -212,6 +212,21 @@
       ],
       "correct_answer": 0,
       "rationale": "Meningeal inflammatory infiltrates, particularly lymphoid-like structures, are associated with cortical demyelination, neurodegeneration, and more aggressive disease course."
+    },
+    {
+      "id": "q014",
+      "domain": "clinical",
+      "subdomain": "2.1.1",
+      "difficulty": "easy",
+      "stem": "What is the standard dose and duration for intravenous methylprednisolone treatment of MS relapses?",
+      "options": [
+        "500 mg daily for 3 days",
+        "1000 mg daily for 3-5 days",
+        "100 mg daily for 7 days",
+        "2000 mg daily for 1 day"
+      ],
+      "correct_answer": 1,
+      "rationale": "Intravenous methylprednisolone 1000 mg daily for 3-5 days is the standard protocol for treating acute MS relapses. This high-dose corticosteroid therapy reduces inflammation and shortens relapse duration."
     }
   ]
 }
