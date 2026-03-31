@@ -77,6 +77,21 @@
       ],
       "correct_answer": 3,
       "rationale": "This patient transitioned from RRMS to SPMS after 8 years and now shows progressive disability without clinical relapses. The absence of gadolinium enhancement indicates inactive disease, making this Inactive SPMS (progressive without relapses)."
+    },
+    {
+      "id": "q005",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "easy",
+      "stem": "Which environmental factor is most strongly associated with increased MS risk?",
+      "options": [
+        "Vitamin D deficiency",
+        "High salt intake",
+        "Sedentary lifestyle",
+        "Excessive vitamin C intake"
+      ],
+      "correct_answer": 0,
+      "rationale": "Vitamin D deficiency is the most strongly established environmental risk factor for MS. Prevalence correlates with geographic latitude (less sun exposure), and low vitamin D levels are associated with higher MS risk."
     }
   ]
 }
