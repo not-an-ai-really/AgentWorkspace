@@ -272,6 +272,21 @@
       ],
       "correct_answer": 2,
       "rationale": "Teriflunomide (Aubagio) is an oral DMT administered as a once-daily tablet. It inhibits dihydroorotate dehydrogenase, reducing lymphocyte proliferation."
+    },
+    {
+      "id": "q018",
+      "domain": "clinical",
+      "subdomain": "2.1.2",
+      "difficulty": "medium",
+      "stem": "Which DMT requires pre-treatment screening for JC virus antibodies due to PML risk?",
+      "options": [
+        "Dimethyl fumarate",
+        "Natalizumab",
+        "Fingolimod",
+        "Cladribine"
+      ],
+      "correct_answer": 1,
+      "rationale": "Natalizumab carries a significant risk of progressive multifocal leukoencephalopathy (PML) associated with JC virus reactivation. JCV antibody testing is mandatory before initiation and every 6 months during therapy."
     }
   ]
 }
