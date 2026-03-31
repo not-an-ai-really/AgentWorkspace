@@ -257,6 +257,21 @@
       ],
       "correct_answer": 3,
       "rationale": "Both proton pump inhibitors (PPIs) and H2 blockers are used to prevent corticosteroid-induced gastritis and peptic ulcers. PPIs are generally preferred for higher efficacy in gastric acid suppression."
+    },
+    {
+      "id": "q017",
+      "domain": "clinical",
+      "subdomain": "2.1.2",
+      "difficulty": "easy",
+      "stem": "Which DMT is administered as a monthly oral tablet?",
+      "options": [
+        "Fingolimod",
+        "Dimethyl fumarate",
+        "Teriflunomide",
+        "Siponimod"
+      ],
+      "correct_answer": 2,
+      "rationale": "Teriflunomide (Aubagio) is an oral DMT administered as a once-daily tablet. It inhibits dihydroorotate dehydrogenase, reducing lymphocyte proliferation."
     }
   ]
 }
