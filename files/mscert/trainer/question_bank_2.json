@@ -227,6 +227,36 @@
       ],
       "correct_answer": 1,
       "rationale": "Intravenous methylprednisolone 1000 mg daily for 3-5 days is the standard protocol for treating acute MS relapses. This high-dose corticosteroid therapy reduces inflammation and shortens relapse duration."
+    },
+    {
+      "id": "q015",
+      "domain": "clinical",
+      "subdomain": "2.1.1",
+      "difficulty": "medium",
+      "stem": "A patient with MS presents with an acute relapse affecting vision (optic neuritis) and mobility. Which indicator would suggest the relapse is not attributable to MS?",
+      "options": [
+        "Symptoms worsening over 2 weeks",
+        "No gadolinium-enhancing lesions on MRI",
+        "Complete recovery within 6 weeks",
+        "History of similar previous relapses"
+      ],
+      "correct_answer": 1,
+      "rationale": "Absence of gadolinium-enhancing lesions on MRI suggests the symptoms are not due to active inflammation. Other features suggesting non-MS etiology include gradual progression over weeks, poor response to steroids, and atypical clinical features."
+    },
+    {
+      "id": "q016",
+      "domain": "clinical",
+      "subdomain": "2.1.1",
+      "difficulty": "medium",
+      "stem": "Which adjunctive therapy is commonly prescribed during high-dose corticosteroid treatment to prevent gastritis?",
+      "options": [
+        "Proton pump inhibitor (e.g., omeprazole)",
+        "Antacid (e.g., calcium carbonate)",
+        "H2 blocker (e.g., famotidine)",
+        "Both A and C"
+      ],
+      "correct_answer": 3,
+      "rationale": "Both proton pump inhibitors (PPIs) and H2 blockers are used to prevent corticosteroid-induced gastritis and peptic ulcers. PPIs are generally preferred for higher efficacy in gastric acid suppression."
     }
   ]
 }
