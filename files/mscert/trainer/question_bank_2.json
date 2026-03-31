@@ -137,6 +137,21 @@
       ],
       "correct_answer": 1,
       "rationale": "The Expanded Disability Status Scale (EDSS) is the most widely used metric to quantify disability in MS clinical trials and practice, ranging from 0 (no disability) to 10 (death from MS)."
+    },
+    {
+      "id": "q009",
+      "domain": "conceptual",
+      "subdomain": "1.3",
+      "difficulty": "medium",
+      "stem": "What is the typical progression pattern for most patients with RRMS over 15-20 years without disease-modifying therapy?",
+      "options": [
+        "Remain RRMS throughout",
+        "Transition to SPMS after ~10-15 years",
+        "Transition to PPMS after ~5 years",
+        "Stable disability without progression"
+      ],
+      "correct_answer": 1,
+      "rationale": "Without disease-modifying therapy, approximately 50-60% of RRMS patients transition to SPMS within 10-15 years of disease onset. The risk increases with each passing year."
     }
   ]
 }
