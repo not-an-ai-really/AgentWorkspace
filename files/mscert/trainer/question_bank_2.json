@@ -317,6 +317,21 @@
       ],
       "correct_answer": 2,
       "rationale": "Cladribine is a time-limited therapy (2 treatment courses over 2 years) with lymphocyte reconstitution over 6-12 months. This makes it suitable for patients planning pregnancy, as it allows a defined treatment window followed by immune recovery."
+    },
+    {
+      "id": "q021",
+      "domain": "clinical",
+      "subdomain": "2.2",
+      "difficulty": "easy",
+      "stem": "Which symptom affects up to 80% of MS patients and is often underreported?",
+      "options": [
+        "Pain",
+        "Fatigue",
+        "Spasticity",
+        "Tremor"
+      ],
+      "correct_answer": 1,
+      "rationale": "Fatigue affects up to 80% of MS patients and is often underreported because it is invisible and difficult to quantify. It is one of the most disabling symptoms and can occur even in early disease stages."
     }
   ]
 }
