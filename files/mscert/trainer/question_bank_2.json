@@ -182,6 +182,36 @@
       ],
       "correct_answer": 1,
       "rationale": "In early active MS lesions, the primary event is disruption of the blood-brain barrier, followed by infiltration of inflammatory cells (T cells, B cells, macrophages) that target myelin and oligodendrocytes."
+    },
+    {
+      "id": "q012",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "hard",
+      "stem": "Which feature distinguishes 'smoldering' or 'silent' lesions from acute active lesions in MS?",
+      "options": [
+        "High lesion load on T2-weighted MRI",
+        "Gadolinium enhancement on MRI",
+        "Slowly expanding lesions with inactive edges and remyelination",
+        "Acute inflammatory infiltrates in CSF"
+      ],
+      "correct_answer": 2,
+      "rationale": "Smoldering or slowly expanding lesions are characterized by gradual expansion from a well-defined edge over months to years, with minimal inflammation, ongoing demyelination, and some remyelination. They do not show gadolinium enhancement."
+    },
+    {
+      "id": "q013",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "medium",
+      "stem": "What is the significance of meningeal inflammation in MS pathogenesis?",
+      "options": [
+        "It correlates with cortical lesion formation and neurodegeneration",
+        "It indicates active systemic autoimmunity",
+        "It is exclusive to acute relapses",
+        "It is associated with cortical demyelination, neurodegeneration, and more aggressive disease course"
+      ],
+      "correct_answer": 0,
+      "rationale": "Meningeal inflammatory infiltrates, particularly lymphoid-like structures, are associated with cortical demyelination, neurodegeneration, and more aggressive disease course."
     }
   ]
 }
