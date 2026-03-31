@@ -122,6 +122,21 @@
       ],
       "correct_answer": 1,
       "rationale": "MS prevalence increases with distance from the equator. Highest rates are found in mid-latitude regions such as Canada, northern US, Europe, southern Australia, and New Zealand."
+    },
+    {
+      "id": "q008",
+      "domain": "conceptual",
+      "subdomain": "1.3",
+      "difficulty": "easy",
+      "stem": "Which metric is most commonly used to quantify disability accumulation in MS?",
+      "options": [
+        "Multiple Sclerosis Functional Composite (MSFC)",
+        "Expanded Disability Status Scale (EDSS)",
+        "Symbol Digit Modalities Test (SDMT)",
+        "Fatigue Severity Scale (FSS)"
+      ],
+      "correct_answer": 1,
+      "rationale": "The Expanded Disability Status Scale (EDSS) is the most widely used metric to quantify disability in MS clinical trials and practice, ranging from 0 (no disability) to 10 (death from MS)."
     }
   ]
 }
