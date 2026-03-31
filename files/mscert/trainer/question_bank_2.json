@@ -287,6 +287,36 @@
       ],
       "correct_answer": 1,
       "rationale": "Natalizumab carries a significant risk of progressive multifocal leukoencephalopathy (PML) associated with JC virus reactivation. JCV antibody testing is mandatory before initiation and every 6 months during therapy."
+    },
+    {
+      "id": "q019",
+      "domain": "clinical",
+      "subdomain": "2.1.2",
+      "difficulty": "medium",
+      "stem": "Which DMT is associated with transient lymphopenia as a common side effect?",
+      "options": [
+        "Interferon beta",
+        "Glatiramer acetate",
+        "Cladribine",
+        "Dimethyl fumarate"
+      ],
+      "correct_answer": 2,
+      "rationale": "Cladribine (Mavenclad) causes transient, dose-dependent lymphopenia, particularly affecting B and T cells. This is part of its mechanism of action (selective lymphocyte depletion) but requires monitoring of lymphocyte counts."
+    },
+    {
+      "id": "q020",
+      "domain": "clinical",
+      "subdomain": "2.1.2",
+      "difficulty": "hard",
+      "stem": "A 45-year-old patient with active RRMS and no prior DMT history. Priority goals include pregnancy planning within 2 years and minimizing long-term immunosuppression. Which DMT is most appropriate?",
+      "options": [
+        "Natalizumab",
+        "Ocrelizumab",
+        "Cladribine",
+        "Alemtuzumab"
+      ],
+      "correct_answer": 2,
+      "rationale": "Cladribine is a time-limited therapy (2 treatment courses over 2 years) with lymphocyte reconstitution over 6-12 months. This makes it suitable for patients planning pregnancy, as it allows a defined treatment window followed by immune recovery."
     }
   ]
 }
