@@ -152,6 +152,36 @@
       ],
       "correct_answer": 1,
       "rationale": "Without disease-modifying therapy, approximately 50-60% of RRMS patients transition to SPMS within 10-15 years of disease onset. The risk increases with each passing year."
+    },
+    {
+      "id": "q010",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "easy",
+      "stem": "Which cell type is primarily responsible for myelin destruction in MS lesions?",
+      "options": [
+        "B cells",
+        "T cells (CD4+ and CD8+)",
+        "Microglia",
+        "Astrocytes"
+      ],
+      "correct_answer": 1,
+      "rationale": "T cells, particularly CD4+ helper T cells (Th1 and Th17) and CD8+ cytotoxic T cells, are the primary drivers of inflammation and demyelination in MS lesions. B cells contribute through antibody production and antigen presentation."
+    },
+    {
+      "id": "q011",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "medium",
+      "stem": "What is the primary pathological event in early MS lesions?",
+      "options": [
+        "Microglial activation without blood-brain barrier disruption",
+        "Blood-brain barrier disruption followed by inflammatory cell infiltration",
+        "Primary oligodendrocyte apoptosis",
+        "Direct axonal transection"
+      ],
+      "correct_answer": 1,
+      "rationale": "In early active MS lesions, the primary event is disruption of the blood-brain barrier, followed by infiltration of inflammatory cells (T cells, B cells, macrophages) that target myelin and oligodendrocytes."
     }
   ]
 }
