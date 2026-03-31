@@ -92,6 +92,21 @@
       ],
       "correct_answer": 0,
       "rationale": "Vitamin D deficiency is the most strongly established environmental risk factor for MS. Prevalence correlates with geographic latitude (less sun exposure), and low vitamin D levels are associated with higher MS risk."
+    },
+    {
+      "id": "q006",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "medium",
+      "stem": "Which gene is most strongly associated with MS susceptibility?",
+      "options": [
+        "HLA-DRB1*15:01",
+        "APOE ε4",
+        "BRCA1",
+        "CFTR"
+      ],
+      "correct_answer": 0,
+      "rationale": "The HLA-DRB1*15:01 allele is the strongest genetic risk factor for MS, located in the MHC class II region on chromosome 6. Carriers have 3x increased MS risk."
     }
   ]
 }
