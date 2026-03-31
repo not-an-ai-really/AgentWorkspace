@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "total_questions": 500,
+    "exam_questions": 150,
+    "domains": {
+      "conceptual": 35,
+      "clinical": 65,
+      "advocacy": 15,
+      "education": 26,
+      "research": 12
+    },
+    "difficulty": {
+      "easy": 127,
+      "medium": 250,
+      "hard": 125
+    },
+    "last_updated": "2026-03-31"
+  },
+  "questions": [
+    {
+      "id": "q001",
+      "domain": "conceptual",
+      "subdomain": "1.1",
+      "difficulty": "easy",
+      "stem": "Which type of Multiple Sclerosis is characterized by a steady worsening of symptoms from onset, without distinct relapses or remissions?",
+      "options": [
+        "Relapsing-remitting MS (RRMS)",
+        "Primary progressive MS (PPMS)",
+        "Secondary progressive MS (SPMS)",
+        "Clinically isolated syndrome (CIS)"
+      ],
+      "correct_answer": 1,
+      "rationale": "Primary progressive MS (PPMS) is characterized by a steady worsening of neurological function from onset, without distinct relapses or remissions. This accounts for approximately 10-15% of MS cases."
+    },
+    {
+      "id": "q002",
+      "domain": "conceptual",
+      "subdomain": "1.1",
+      "difficulty": "easy",
+      "stem": "A patient presents with a first clinical episode suggestive of MS. MRI shows disseminated lesions in time and space. What is this most likely to be diagnosed as?",
+      "options": [
+        "Relapsing-remitting MS (RRMS)",
+        "Primary progressive MS (PPMS)",
+        "Secondary progressive MS (SPMS)",
+        "Clinically isolated syndrome (CIS)"
+      ],
+      "correct_answer": 3,
+      "rationale": "Clinically Isolated Syndrome (CIS) refers to a first episode of neurologic symptoms lasting at least 24 hours, caused by inflammation or demyelination. If MRI shows dissemination in space and time, the risk of developing MS is very high."
+    },
+    {
+      "id": "q003",
+      "domain": "conceptual",
+      "subdomain": "1.1",
+      "difficulty": "medium",
+      "stem": "Which phase of MS is characterized by a transition from relapsing-remitting disease to steady progression with or without occasional minor remissions?",
+      "options": [
+        "Relapsing-remitting MS (RRMS)",
+        "Primary progressive MS (PPMS)",
+        "Secondary progressive MS (SPMS)",
+        "Clinically isolated syndrome (CIS)"
+      ],
+      "correct_answer": 2,
+      "rationale": "Secondary Progressive MS (SPMS) typically follows an initial relapsing-remitting course. Over time, the disease begins to progress more steadily, with or without occasional relapses or minor remissions."
+    },
+    {
+      "id": "q004",
+      "domain": "conceptual",
+      "subdomain": "1.1",
+      "difficulty": "hard",
+      "stem": "A 32-year-old female patient with RRMS for 8 years presents with progressive worsening of ambulation and cognitive function over the past 2 years, with no clear relapses. MRI shows new T2 lesions but no gadolinium enhancement. What is the most appropriate diagnosis?",
+      "options": [
+        "Active RRMS with ongoing relapses",
+        "Inactive PPMS",
+        "Active SPMS (progressive with relapses)",
+        "Inactive SPMS (progressive without relapses)"
+      ],
+      "correct_answer": 3,
+      "rationale": "This patient transitioned from RRMS to SPMS after 8 years and now shows progressive disability without clinical relapses. The absence of gadolinium enhancement indicates inactive disease, making this Inactive SPMS (progressive without relapses)."
+    }
+  ]
+}
