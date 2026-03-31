@@ -332,6 +332,21 @@
       ],
       "correct_answer": 1,
       "rationale": "Fatigue affects up to 80% of MS patients and is often underreported because it is invisible and difficult to quantify. It is one of the most disabling symptoms and can occur even in early disease stages."
+    },
+    {
+      "id": "q022",
+      "domain": "clinical",
+      "subdomain": "2.2",
+      "difficulty": "medium",
+      "stem": "Which MS symptom is most effectively managed with physical therapy and exercise programs?",
+      "options": [
+        "Cognitive changes",
+        "Visual impairment",
+        "Altered mobility and balance",
+        "Altered speech"
+      ],
+      "correct_answer": 2,
+      "rationale": "Altered mobility and balance respond well to physical therapy, including balance training, gait exercises, and strength building. Regular exercise also helps reduce spasticity and improve overall function."
     }
   ]
 }
