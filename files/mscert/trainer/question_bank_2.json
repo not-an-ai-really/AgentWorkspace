@@ -347,6 +347,21 @@
       ],
       "correct_answer": 2,
       "rationale": "Altered mobility and balance respond well to physical therapy, including balance training, gait exercises, and strength building. Regular exercise also helps reduce spasticity and improve overall function."
+    },
+    {
+      "id": "q023",
+      "domain": "clinical",
+      "subdomain": "2.2",
+      "difficulty": "medium",
+      "stem": "First-line pharmacologic treatment for MS-related spasticity includes:",
+      "options": [
+        "Baclofen and tizanidine",
+        "Amitriptyline and gabapentin",
+        "Dalfampridine and 4-aminopyridine",
+        "Baclofen and dantrolene"
+      ],
+      "correct_answer": 0,
+      "rationale": "Baclofen (oral or intrathecal) and tizanidine are first-line medications for MS-related spasticity. They work through different mechanisms to reduce muscle tone and spasms."
     }
   ]
 }
