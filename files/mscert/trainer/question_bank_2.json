@@ -377,6 +377,21 @@
       ],
       "correct_answer": 1,
       "rationale": "Uhtoff's phenomenon (symptom worsening with heat) is characteristic of MS. Energy conservation, cooling strategies (cooling vests, air conditioning), and activity pacing are first-line non-pharmacologic interventions for heat-sensitive fatigue."
+    },
+    {
+      "id": "q025",
+      "domain": "clinical",
+      "subdomain": "2.3",
+      "difficulty": "easy",
+      "stem": "Which assessment tool is most sensitive for detecting cognitive changes in MS?",
+      "options": [
+        "Expanded Disability Status Scale (EDSS)",
+        "Symbol Digit Modalities Test (SDMT)",
+        "Fatigue Severity Scale (FSS)",
+        "Multiple Sclerosis Functional Composite (MSFC)"
+      ],
+      "correct_answer": 1,
+      "rationale": "The Symbol Digit Modalities Test (SDMT) is the most sensitive and widely used test for assessing cognitive processing speed and attention in MS, with strong predictive validity for real-world cognitive function."
     }
   ]
 }
