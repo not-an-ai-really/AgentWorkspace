@@ -362,6 +362,21 @@
       ],
       "correct_answer": 0,
       "rationale": "Baclofen (oral or intrathecal) and tizanidine are first-line medications for MS-related spasticity. They work through different mechanisms to reduce muscle tone and spasms."
+    },
+    {
+      "id": "q024",
+      "domain": "clinical",
+      "subdomain": "2.2",
+      "difficulty": "hard",
+      "stem": "A patient with MS presents with severe fatigue that worsens with heat exposure and improves with rest. Which intervention would be most appropriate?",
+      "options": [
+        "Prescribe modafinil immediately",
+        "Educate on energy conservation and cooling strategies",
+        "Increase DMT frequency",
+        "Start cognitive rehabilitation"
+      ],
+      "correct_answer": 1,
+      "rationale": "Uhtoff's phenomenon (symptom worsening with heat) is characteristic of MS. Energy conservation, cooling strategies (cooling vests, air conditioning), and activity pacing are first-line non-pharmacologic interventions for heat-sensitive fatigue."
     }
   ]
 }
